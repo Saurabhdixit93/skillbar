@@ -156,6 +156,7 @@ body{
     }
 
     .btn {
+        width:40%;
         display: inline-block;
         margin-top: 1rem;
         background-color:#be9c79;
