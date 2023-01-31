@@ -108,6 +108,8 @@ body{
     text-align: center;
 }
 .btn {
+    text-align: center;
+    width: 20%;
     display: inline-block;
     margin-top: 1rem;
     background-color: #be9c79;
